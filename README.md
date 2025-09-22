@@ -1,5 +1,5 @@
 # profile
 
-A simple webpage to showcase my developer profile.
+A simple webpage to showcase my profile.
 
-[View website](https://poo17nam.github.io/profile)
+[MyPortfolio](https://myportfolio-prasanth.vercel.app/)
